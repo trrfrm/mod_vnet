@@ -1,6 +1,6 @@
 module "my-vnet" {
 
-    source          = "git::https://github.com/RAZKYN/vnet_module.git"
+    source          = "git::https://github.com/trrfrm/ntier_vnet.git"             # Generic Git
     az_rg           = {
       location      = "centralindia"
       name          = "fromtf"
