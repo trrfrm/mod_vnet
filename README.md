@@ -84,5 +84,5 @@ _**NOTE: For any module, the 'Attribute' is your `outputs.tf` to demonstrate the
 
 * Kindly, Refer the `./examples/` directory
 
-* Execute `terraform apply` command in examples's directory to check-out "mod_vnet" module
+* Execute `terraform apply` command in examples's directory to check-out _mod_vnet_ module
 
