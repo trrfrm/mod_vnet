@@ -1,4 +1,4 @@
-## module "ntier-vnet"
+## module: _mod_vnet_
 
 ### Create a basic virtual network in Azure using a terraform module
 --------------------------------------------------------------------
@@ -82,6 +82,7 @@ _**NOTE: For any module, the 'Attribute' is your `outputs.tf` to demonstrate the
 ### Example Usage
 -----------------
 
-* Kindly, Refer to the `./examples/` directory. 
-* You can execute `terraform apply` command in examples's directory to try the "ntier-vnet" module
+* Kindly, Refer the `./examples/` directory
+
+* Execute `terraform apply` command in examples's directory to check-out "mod_vnet" module
 
