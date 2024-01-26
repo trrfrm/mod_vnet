@@ -1,4 +1,4 @@
-module "my-vnet" {
+module "mod_vnet" {
 
     source          = "git::https://github.com/trrfrm/ntier_vnet.git"             # Generic Git
     az_rg           = {
